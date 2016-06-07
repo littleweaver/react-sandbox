@@ -30,7 +30,7 @@ latest stable version of `node` with `nvm install latest`. This will come with
 ### OS X/Linux
 
 Use [nvm](https://github.com/creationix/nvm). Install the latest stable version
-of `node` with `nvm install latest`. This will come with `npm`.
+of `node` with `nvm install node`. This will come with `npm`.
 
 ### All Operating Systems
 
